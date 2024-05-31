@@ -32,5 +32,4 @@ O objetivo deste projeto é calcular a hipotenusa de um triângulo retângulo co
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
